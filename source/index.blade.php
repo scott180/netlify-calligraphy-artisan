@@ -1,21 +1,17 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Welcome to Artisan Static</h1>
+    <h1>无为徐生</h1>
 
-    <p>Artisan Static is a starter template for building a static Jigsaw blog hosted on Netlify.</p>
+    <p>书法练习轨迹</p>
 
-    <p>This comes with code highlighting, share buttons, comments, analytics, an RSS feed, a contact form, a CMS and more.</p>
+    <p>何以学书法，一字记之曰：练。天天练，月月练，年年练。时时琢磨。</p>
 
-    <p>The HTML, CSS and JavaScript in this template are extremely minimal, which makes the code easy to build on top of or replace completely.</p>
+    <p>人情必有所寄，习惯而成自然。练着练着，书法就成了生活的一部分，记录书法练习轨迹更是有趣有意思的点缀。不能说是点缀，于我而言，练字与记录是相辅相成、缺一不可的关系。</p>
 
-    <a href="https://ko-fi.com/Y8Y07ACJ" target="_blank" rel="noopener">
+    <a href="https://scott180.github.io/calligraphy/" target="_blank" rel="noopener">
         <img src="{{ media('kofi-button.png') }}" alt="ko-fi" width="223" height="30">
     </a>
 
-    <h2 id="test">Asset Compilation Test</h2>
 
-    <p>CSS test: <span class="test-css">text with blue border</span></p>
-
-    <p>JavaScript test: <a href="#test" class="test-js">click me</a></p>
 @endsection

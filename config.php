@@ -4,12 +4,12 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => '无为徐生',
+        'description' => '书法练习轨迹.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
+        'name' => '无为徐生',
     ],
     'links' => [
         'twitter' => 'https://twitter.com/johndoe',
