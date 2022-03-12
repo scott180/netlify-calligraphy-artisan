@@ -1,6 +1,6 @@
 ---
 title: 书法练习轨迹ReadMe
-date: 202-09-23
+date: 2020-09-23
 comments: false
 ---
 
