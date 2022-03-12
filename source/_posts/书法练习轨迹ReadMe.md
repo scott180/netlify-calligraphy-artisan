@@ -1,7 +1,7 @@
 ---
 title: 书法练习轨迹ReadMe
-description: "人情必有所寄，习惯而成自然。练着练着，书法就成了生活的一部分，记录书法练习轨迹更是有趣有意思的点缀。"
-date: Sep 23 2020
+date: 202-09-23
+comments: false
 ---
 
 # 书法练习轨迹ReadMe
