@@ -38,10 +38,9 @@
 
         <footer>
             <small>
-                &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
-                <a href="/feed.atom">RSS</a> &nbsp;&bull;&nbsp;
-                Maintained by Ranie Santos &nbsp;&bull;&nbsp;
-                <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>
+                Copyright &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
+                书法练习轨迹 &nbsp;&bull;&nbsp;
+                <a href="https://github.com/scott180/calligraphy">GitHub repo</a>
             </small>
         </footer>
     </section>

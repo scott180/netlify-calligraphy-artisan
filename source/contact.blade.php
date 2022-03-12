@@ -18,7 +18,7 @@
 
         <div>
             <label for="message">Message</label><br>
-            <textarea name="message" id="message" required>书法练习轨迹</textarea>
+            <textarea name="message" id="message" required>书法练习轨迹--明月几时有</textarea>
         </div>
 
         <input type="text" name="_gotcha" style="display: none;">
